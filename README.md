@@ -6,11 +6,11 @@ L'objectif de ce projet est d'évaluer la performance d'une stratégie de tradin
 
 ### 1. Signaux d'achat et de vente
 Voici les points d'entrée et de sortie générés par l'algorithme :
-![Signaux de Trading](Graph%20Stratégie%20SMA%20sur%20AAPL.png)
+![Signaux de Trading](Graphique%20Strategie%20SMA%20sur%20AAPL.png)
 
 ### 2. Performance Cumulée
 Comparaison de la stratégie face au marché (Buy & Hold) :
-![Performance Cumulée](Graphique%20Performance%20Cululée.png)
+![Performance Cumulée](Graphique%20Performance%20Cumulee.png)
 
 ## Installation et Utilisation
 1. Installer les dépendances : `pip install -r requirements.txt`
