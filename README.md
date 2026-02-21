@@ -1,6 +1,15 @@
 # -Backtest-SMA-AAPL-2020-2023
 
-L'objectif de ce projet est d'évaluer la performance d'une stratégie de trading basée sur le croisement de moyennes mobiles simples (SMA) appliquée à l'action Apple (AAPL) entre 2020 et 2023.
+L’objectif de ce projet est d’évaluer la performance d’une stratégie de trading basée sur le 
+croisement de moyennes mobiles simples (SMA) appliquée à l’action Apple (AAPL) entre 2020 
+et 2023.
+
+Cette période inclut des événements importants : crash COVID-19 (mars 2020), reprise 
+fulgurante, puis resserrement monétaire (2022-2023), ce qui crée un environnement 
+particulièrement difficile pour les stratégies SMA.
+
+La stratégie est comparée à une approche passive (buy-and-hold) à travers plusieurs métriques 
+financières : CAGR, volatilité annualisée, ratio de Sharpe et Max Drawdown.
 
 ## Aperçu des résultats
 
